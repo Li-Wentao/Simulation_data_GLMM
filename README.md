@@ -13,3 +13,5 @@ Setting 4: 10 sites, 500 patients each site, large variance
 Setting 5 ~ 8: four additional settings by changing 500 patients to 30 patients in each hospital
 
 (For each setting, 20 datasets are created.)
+
+### beta0 = c(-1.5,0.1,-0.5,-0.3,0.4,-0.2,-0.25,0.35,-0.1,0.5)
