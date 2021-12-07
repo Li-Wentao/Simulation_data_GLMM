@@ -1,5 +1,5 @@
 # This R code is written to generate simulated data for distributed trivairate GLMM
-setwd("/Users/jiayito/Dropbox/000_UPenn_Research/000_project/000_xiaoqian/new/simulated_data")
+setwd("/Users/wli17/Documents/GLMM/Simulation_data_GLMM/R_code/")
 
 library(MASS)
 
